@@ -90,7 +90,7 @@ author:
   email1           :  "dimarapis@dtu.dk"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  employer         : "Novo Nordisk / Robotics Innovation Lab"
+  employer         : #"Novo Nordisk / Robotics Innovation Lab"
   email2           :  "dtai@novonordisk.com"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

@@ -12,3 +12,6 @@ redirect_from:
 
 Research Output
 ======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
