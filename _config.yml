@@ -82,12 +82,15 @@ analytics:
 author:
   name             : "Dimitrios Arapis"
   avatar           : "profile_image.png"
-  bio              : "Industrial PhD Student"
+  bio              : "Industrial PhD Student"  
+  group            : "Automation & Control Group"
+  department       : "Department of Electrical and Photonics Engineering"
+  univ             : "Technical University of Denmark"
   location         : "Copenhagen, DK"
-  employer         : "Novo Nordisk / DTU"
+  email1           :  "dimarapis@dtu.dk"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email1           :  "dimarapis@dtu.dk"
+  employer         : "Novo Nordisk / Robotics Innovation Lab"
   email2           :  "dtai@novonordisk.com"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -104,7 +107,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "dimarapis"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-8166-9926"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -186,7 +189,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 
