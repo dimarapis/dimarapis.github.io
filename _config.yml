@@ -84,11 +84,11 @@ author:
   avatar           : "profile_image.png"
   bio              : "Industrial PhD Student"
   location         : "Copenhagen, DK"
-  employer         : "DTU / Novo Nordisk"
+  employer         : "Novo Nordisk / DTU"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email1           :  "dimarapis@elektro.dtu.dk"
-  email2           :  "DTAI@novonordisk.com"
+  email1           :  "dimarapis@dtu.dk"
+  email2           :  "dtai@novonordisk.com"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -186,7 +186,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
